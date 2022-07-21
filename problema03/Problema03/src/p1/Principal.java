@@ -78,7 +78,7 @@ public class Principal {
         lista.add(c5);
         e.establecerCorreos(lista);
 
-        System.out.println(e);
+        System.out.println(e); 
 
     }
 
